@@ -1,0 +1,1 @@
+{"version":"default-v1-frozen-20261011","thresholds":{},"frozen":true,"protocol":"仅dev用于调参；冻结后holdout仅评测，不据结果回改参数；本期不调参，沿用旧自适应百分位默认"}

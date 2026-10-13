@@ -1,0 +1,19 @@
+Copyright (c) 2026 daiwuyue1-design. All rights reserved.
+
+【中文】
+本仓库中由项目作者创作的部分（以下简称"本软件"）为专有软件，保留所有权利。
+本软件在 GitHub 上公开可见（source-available），但公开可见不构成任何授权：
+未经版权所有者事先书面许可，任何人不得复制、修改、分发、再许可、出售
+或以其他方式使用本软件的全部或任何部分，亦不得基于本软件创建衍生作品。
+
+【English】
+The portions of this repository authored by the project owner (the "Software")
+are proprietary and all rights are reserved. The Software is made publicly
+visible (source-available) on GitHub, but public visibility does not grant any
+license. No part of the Software may be copied, modified, distributed,
+sublicensed, sold, or otherwise used, nor may derivative works be created,
+without the prior written permission of the copyright holder.
+
+【第三方组件】
+vendor/agnes-harness 等第三方组件依照其各自目录中的 LICENSE / NOTICE
+（如 Apache License 2.0）授权，不受本文件影响。

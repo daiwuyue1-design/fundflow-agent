@@ -1,0 +1,3 @@
+# 调参仅看dev；冻结参数版本后跑holdout；禁止根据holdout回改参数。
+# JSON是YAML的子集；标准库读取，保持无额外依赖。
+{"name":"s30_noise_missing_dev","size":30,"noise":true,"quality":"missing","seed":31006,"split":"dev"}

@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "PostToolUse": [{"matcher":"mcp_fundflow.*","hooks":[{"type":"command","command":"python -X utf8 agent/hooks/hook_tool_result_check.py","timeout":30}]}],
+    "Stop": [{"hooks":[{"type":"command","command":"python -X utf8 agent/hooks/hook_turn_stopping_check.py","timeout":30}]}]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "repository": "https://github.com/AgnesAI-Labs/agnes-harness",
+  "commit": "cde816b88c737b9fd04e7ef55b899e7b4cd55eb7",
+  "license": "Apache-2.0",
+  "source": "vendor/agnes-harness",
+  "local_untracked_files_included": false
+}

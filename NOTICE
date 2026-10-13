@@ -1,0 +1,7 @@
+This project includes Agnes Harness source code under vendor/agnes-harness.
+Upstream: https://github.com/AgnesAI-Labs/agnes-harness
+Revision: see UPSTREAM.json.
+Agnes Harness is distributed under Apache License 2.0.
+Its LICENSE, NOTICE, and third-party notices are retained in that directory.
+No upstream source changes are made by this publication package.
+The application's own license has not been selected by its owner.

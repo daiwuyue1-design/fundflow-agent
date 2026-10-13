@@ -1,0 +1,11 @@
+# Tested direct dependencies (Python 3.12). MCP v1 FastMCP API only.
+mcp==1.30.0
+numpy==2.4.4
+pandas==3.0.2
+networkx==3.6.1
+plotly==6.7.0
+openpyxl==3.1.5
+scikit-learn==1.8.0
+threadpoolctl==3.6.0
+# Read legacy .xls bills; demo uses .xlsx.
+xlrd==2.0.2

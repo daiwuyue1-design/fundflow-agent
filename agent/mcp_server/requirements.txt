@@ -1,0 +1,2 @@
+# FastMCP v1 API；mcp 2.x 已改名，避免非兼容升级。
+mcp>=1.26,<2
